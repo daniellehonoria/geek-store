@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image":"./fts/et.jpg",        
+        "name": "E.T.",
+        "filme": "E.T",
+        "preço": 220,
+        "alt": "Funko E.T"
+        
+    },
+    {
+        "id": 2,
+        "image":"./fts/groot2.jpg",
+        "name": "Groot",
+        "filme": "Guardians of the Galaxy",
+        "preço": 178,
+        "alt": "Funko Groot"
+
+    },
+    {
+        "id": 3,
+        "image": "./fts/rocket-guardioes-galaxia.jpg",
+        "name": "Rocket",
+        "filme": "Guardians of the Galaxy",
+        "preço": 172,
+        "alt": "Funko Rocket"
+
+    },
+    {
+        "id": 4,
+        "image":"./fts/darth-vader.jpg",        
+        "name": "Darth Vader",
+        "filme": "Star Wars",
+        "preço": 270,
+        "alt": "Funko Darth Vader"
+
+    },
+    {
+        "id": 5,
+        "image":"./fts/princesaleia2-starwars.jpg",        
+        "name": "P. Leia",
+        "filme": "Star Wars",
+        "preço": 249,
+        "alt": "Funko Princesa Leia"
+
+    },
+    {
+        "id": 6,
+        "image":"./fts/spock-starTreck.jpg",        
+        "name": "Spock",
+        "filme": "Star Trek",
+        "preço": 183,
+        "alt": "Funko Spock"
+
+    },
+
+    {
+        "id": 8,
+        "image":"./fts/wall-e.jpg",        
+        "name": "Wall-E",
+        "filme": " Wall-E",
+        "preço": 150,
+        "alt": "Funko Wall-E"
+
+    }
+]
